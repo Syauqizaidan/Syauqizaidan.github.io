@@ -12,4 +12,3 @@ UIDeck.com and my family who support me.
 # Resources
   - Bootstrap
   - SASS
-  - 
